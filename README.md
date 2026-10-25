@@ -1,16 +1,22 @@
-## Hi there 👋
+# utsuna
 
-<!--
-**utsuna/utsuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент-программист. Изучаю разработку и постепенно собираю базу знаний.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Обо мне
+
+- Учусь программированию
+- Сейчас разбираюсь в основах разработки и Git
+- Практикуюсь на учебных задачах
+- В планах — первые небольшие проекты
+
+---
+
+## Сейчас в процессе
+
+- Изучаю основы веб-разработки
+- Осваиваю Git и GitHub
+- Готовлюсь к первым учебным проектам
+
+---
